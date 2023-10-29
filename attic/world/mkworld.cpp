@@ -83,7 +83,7 @@ int main(int argc,char **argv)
 	const uint64_t id = ZT_WORLD_ID_EARTH;
 	const uint64_t ts = 1567191349589ULL; // August 30th, 2019
 
-	// Los Angeles
+	/* Los Angeles
 	roots.push_back(World::Root());
 	roots.back().identity = Identity("3a46f1bf30:0:76e66fab33e28549a62ee2064d1843273c2c300ba45c3f20bef02dbad225723bb59a9bb4b13535730961aeecf5a163ace477cceb0727025b99ac14a5166a09a3");
 	roots.back().stableEndpoints.push_back(InetAddress("185.180.13.82/9993"));
@@ -138,7 +138,7 @@ int main(int argc,char **argv)
 	//roots.back().stableEndpoints.push_back(InetAddress("2001:19f0:7000:9bc9:5400:00ff:fe15:c4f5/9993")); // Tokyo
 	//roots.back().stableEndpoints.push_back(InetAddress("159.203.2.154/9993")); // Toronto
 	//roots.back().stableEndpoints.push_back(InetAddress("2604:a880:cad:d0::26:7001/9993")); // Toronto
-
+	*/
 	// END WORLD DEFINITION
 	// =========================================================================
 
